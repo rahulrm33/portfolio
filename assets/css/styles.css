@@ -204,6 +204,7 @@ img{
     color: var(--white-color);
 }
 .home__img{
+    border-radius: 50%;
     position: absolute;
     right: 0;
     bottom: 0;
