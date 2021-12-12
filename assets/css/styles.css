@@ -204,11 +204,14 @@ img{
     color: var(--white-color);
 }
 .home__img{
-    border-radius: 50%;
-    position: absolute;
+     position: absolute;
     right: 0;
     bottom: 0;
     width: 295px;
+    height:500px ;
+    background-color: var(--first-color);
+    border-radius: 50%;
+    padding-bottom: 40px;
 }
 
 /* ===== ABOUT =====*/
