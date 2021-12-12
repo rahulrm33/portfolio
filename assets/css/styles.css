@@ -211,7 +211,7 @@ img{
     height:500px ;
     background-color: var(--first-color);
     border-radius: 50%;
-    padding-bottom: 40px;;
+    padding-bottom: 40px;
     /* display: flex;
     justify-content: center;
     padding-top: 1rem;
@@ -420,8 +420,8 @@ img{
 /* For small devices */
 @media screen and (max-width: 320px) {
   .home__img {
-/*     width: 230px; */
-      display:none;
+    /* width: 230px; */
+    display: none;
   }
 }
 
@@ -471,6 +471,7 @@ img{
     .home__img{
         width: 524px;
         right: 10%;
+        /* display: none; */
     }
 
     .about__container{
